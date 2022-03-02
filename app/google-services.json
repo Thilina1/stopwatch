@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65447882526",
+    "project_id": "stopwatch-cbd6b",
+    "storage_bucket": "stopwatch-cbd6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65447882526:android:8b903a5d9a2b758b58a30f",
+        "android_client_info": {
+          "package_name": "com.androiddev.stopwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65447882526-12umnbo1neu2fgave3toulh7mr31hbol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddev.stopwatch",
+            "certificate_hash": "9ba9ea0e497a47ca5a3a605673da37179692f46e"
+          }
+        },
+        {
+          "client_id": "65447882526-imnh2orsaubkop4qgtavjdman3hghfik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSWNE-PBYiHvvQ7C7Yez0HaalyfgoszFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65447882526-imnh2orsaubkop4qgtavjdman3hghfik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
